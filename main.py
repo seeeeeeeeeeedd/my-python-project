@@ -7,7 +7,8 @@ if __name__ == "__main__":
 
 
 def greet(name):
-    print(f"Hello, {name}!")
+    print(f"Hello, {name}!!")
+    print("This is a simple greeting function.")
 
 
 if __name__ == "__main__":
